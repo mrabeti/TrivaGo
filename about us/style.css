@@ -1,0 +1,65 @@
+
+*{     
+    padding: 0%;
+    margin: 0%;
+    font-family: Century Gothic;
+}
+ul li a{
+    text-decoration: none;
+    padding: 7px 20px;
+    border: 1px solid #1f3338;
+    color: white;
+}
+ul li{
+    display: inline-block;
+}
+ul{
+    margin: 30px 30px;
+   list-style-type: none;
+    float: right;
+}
+ul li a:hover{
+    background-color: rgb(255, 253, 253)  ;
+    color: #000000;
+    size: initial;
+}
+.text{
+    background: linear-gradient(to right, #cc95c0, #dbd4b4, #7aa1d2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-style:  solid;
+    border-color: #bb6666;
+    border-width: 3px;
+}
+body{
+    background: linear-gradient(to right, #d3959b, #bfe6ba);
+    height:500px;              /* هااااااد 3 نااااضين كيعطيوك لاسق خاسني نديرهم ديما */
+    background-size: cover;
+    background-position: center;
+}
+header{
+    width: 100%;
+    height: 70px;
+    background: linear-gradient(to right, #2aaac5, #928dab);
+    padding: auto;
+}
+#haha{
+  text-decoration:underline ;
+  color: white;
+}
+#details{
+    background-color: orange;
+    border-style: dotted;
+    border-color: black;
+    border-width: 5px;
+}
+article{
+    transform:scale(0.8,0.8)
+}
+
+#style{  
+    border-style:  double;
+    border-color: red;
+    border-width: 3px;  
+      background-color: #cecece;
+
+
+}
